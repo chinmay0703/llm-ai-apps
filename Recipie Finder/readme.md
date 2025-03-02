@@ -1,7 +1,7 @@
 # 🍽️ Recipe Finder - AI-Powered Ingredient-Based Recipe Search
 # 🎥 Demo  
 
-![Recipe Finder Demo](assets/demo.gif)
+![Recipe Finder Demo](demo.gif)
 
 **Find the best recipes based on the ingredients you have!**  
 
