@@ -1,8 +1,6 @@
 # 🚀 Chat with PDF - AI-Powered Document Q&A  
 
-# 🎥 Watch the Demo  
-👉 [Click here to watch the demo](assets/recorded.mp4)
-
+![Demo Preview](assets/demo.gif)
 
 🔹 **Chat with Your PDF** allows users to upload a **PDF document** and ask questions about its content using a locally hosted **Ollama LLM**.  
 
