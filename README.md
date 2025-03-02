@@ -1,5 +1,3 @@
-# Create a README.md file with the provided content and save it for download.
-
 # 🚀 LLM-Powered AI Apps
 
 🔹 This repository features **AI-powered applications** leveraging **free, open-source LLMs** (Large Language Models) like **Llama 3**, running locally with **Ollama**.
