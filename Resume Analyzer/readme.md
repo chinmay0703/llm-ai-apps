@@ -1,7 +1,7 @@
-
-
 # 🚀 Resume Analyzer - AI-Powered Job Compatibility Checker
+# 🎥 Demo  
 
+![Resume Analyzer Demo](demo.gif)
 🔹 This project allows users to upload a resume (PDF) and a job description, then analyzes the compatibility between them using a locally hosted Ollama LLM.
 
 🔹 The model extracts technical skills (programming languages), soft skills, and missing qualifications and provides structured feedback for better job matching.
