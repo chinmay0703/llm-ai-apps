@@ -1,7 +1,5 @@
 # 🚀 LLM-Powered AI Apps
-# 🎥 Demo  
 
-![Resume Analyzer Demo](demo.gif)
 🔹 This repository features **AI-powered applications** leveraging **free, open-source LLMs** (Large Language Models) like **Llama 3**, running locally with **Ollama**.
 
 🔹 **Current AI Tools in This Repo:**
