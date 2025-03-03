@@ -8,6 +8,7 @@
 ✅ **[Resume Analyzer](https://github.com/chinmay0703/llm-ai-apps/tree/main/Resume%20Analyzer)** – Compare your resume with a job description and receive skill-gap analysis.  
 ✅ **[Chat with RAG](https://github.com/chinmay0703/llm-ai-apps/tree/main/RAG)** – AI chatbot using **Ollama RAG** and **LlamaIndex** for retrieving relevant information from documents.  
 ✅ **[AI-Powered Recipe Finder](https://github.com/chinmay0703/llm-ai-apps/tree/main/Recipie%20Finder)** – Scrapes and ranks recipes based on ingredients, using **LLM** to generate step-by-step instructions.  
-✅ **[Resume & Job Compatibility Checker](https://github.com/chinmay0703/llm-ai-apps/tree/main/Resume%20Analyzer)** – Analyzes resume-job description alignment, providing **ATS optimization** insights.  
+✅ **[Resume & Job Compatibility Checker](https://github.com/chinmay0703/llm-ai-apps/tree/main/Resume%20Analyzer)** – Analyzes resume-job description alignment, providing **ATS optimization** insights.
+✅ **[SBERTCrew AI: Multi-Agent PDF Question & Answer System](https://github.com/chinmay0703/llm-ai-apps/tree/main/SBERT%20%2B%20LLM-Based%20PDF%20Chat)** –SBERTCrew AI is a multi-agent PDF Q&A system that uses SBERT for intelligent content retrieval and CrewAI for collaborative AI processing. It efficiently extracts, analyzes, and answers questions based on PDF documents with fast and context-aware responses. 🚀📄
 
 📢 More AI tools coming soon! 🚀  
