@@ -1,5 +1,7 @@
 # 📱 WhatsApp Chat Analysis with Llama 3.2 & Streamlit
 
+![Watsapp Chat Analysis Demo](demo.gif)
+
 This is an interactive chat analytics dashboard built using **Streamlit**, **Python**, and **Llama 3.2** (via Ollama API). It allows users to upload WhatsApp chat exports and automatically generate insightful analytics — including participant behavior, emoji use, weekday activity, sentiment analysis, and more.
 
 ---
