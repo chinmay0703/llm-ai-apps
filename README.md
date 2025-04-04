@@ -16,7 +16,7 @@
 
 ✅ **[SBERTCrew AI: Multi-Agent PDF Question & Answer System](https://github.com/chinmay0703/llm-ai-apps/tree/main/SBERT%20%2B%20LLM-Based%20PDF%20Chat)** –SBERTCrew AI is a multi-agent PDF Q&A system that uses SBERT for intelligent content retrieval and CrewAI for collaborative AI processing. It efficiently extracts, analyzes, and answers questions based on PDF documents with fast and context-aware responses. 🚀📄
 
-✅ **[Watsapp Chat Analysis:Get the Statistics For Your Watsapp Chat](https://github.com/chinmay0703/llm-ai-apps/blob/main/Watsapp_chat_analysis/%F0%9F%93%9DWatsapp_Chat_analysis.ipynb)** –This tool uses LLaMA 3.2 via Ollama to analyze your exported WhatsApp chat .txt file. It extracts insights, generates statistics, and gives fast, intelligent, and context-aware summaries of your conversations. 📊💬✨ 🚀📄
+✅ **[Watsapp Chat Analysis:Get the Statistics For Your Watsapp Chat](https://github.com/chinmay0703/llm-ai-apps/blob/main/Watsapp_chat_analysis/%F0%9F%93%9DWatsapp_Chat_analysis.ipynb)** –TA simple yet powerful tool that uses Streamlit for the UI and pandas to read your WhatsApp chat .txt file. Powered by LLaMA 3.2 through Ollama, it delivers smart, context-aware analysis and chat insights. 📊💬⚡
 
 
 📢 More AI tools coming soon! 🚀  
