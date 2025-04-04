@@ -14,7 +14,8 @@
 
 ✅ **[Resume & Job Compatibility Checker](https://github.com/chinmay0703/llm-ai-apps/tree/main/Resume%20Analyzer)** – Analyzes resume-job description alignment, providing **ATS optimization** insights.
 
-✅ **[SBERTCrew AI: Multi-Agent PDF Question & Answer System](https://github.com/chinmay0703/llm-ai-apps/tree/main/SBERT%20%2B%20LLM-Based%20PDF%20Chat)** –SBERTCrew AI is a multi-agent PDF Q&A system that uses SBERT for intelligent content retrieval and CrewAI for collaborative AI processing. It efficiently extracts, analyzes, and answers questions based on PDF documents with fast and context-aware responses. 🚀📄
+✅ **[PDFIntelliAgent: LangChain-Enhanced Multi-Agent AI System with SBERT & CrewAI](https://github.com/chinmay0703/llm-ai-apps/tree/main/SBERT%20%2B%20LLM-Based%20PDF%20Chat)** –A multi-agent architecture utilizing CrewAI for agent orchestration, SBERT for semantic vector retrieval, and LangChain for dynamic tool chaining and memory management.
+Enables autonomous agents to parse PDFs, perform context-aware RAG, and generate multi-turn responses with persistent conversational state. 🚀📄
 
 ✅ **[Watsapp Chat Analysis:Get the Statistics For Your Watsapp Chat](https://github.com/chinmay0703/llm-ai-apps/blob/main/Watsapp_chat_analysis/%F0%9F%93%9DWatsapp_Chat_analysis.ipynb)** –TA simple yet powerful tool that uses Streamlit for the UI and pandas to read your WhatsApp chat .txt file. Powered by LLaMA 3.2 through Ollama, it delivers smart, context-aware analysis and chat insights. 📊💬⚡
 
