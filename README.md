@@ -16,4 +16,7 @@
 
 ✅ **[SBERTCrew AI: Multi-Agent PDF Question & Answer System](https://github.com/chinmay0703/llm-ai-apps/tree/main/SBERT%20%2B%20LLM-Based%20PDF%20Chat)** –SBERTCrew AI is a multi-agent PDF Q&A system that uses SBERT for intelligent content retrieval and CrewAI for collaborative AI processing. It efficiently extracts, analyzes, and answers questions based on PDF documents with fast and context-aware responses. 🚀📄
 
+✅ **[Watsapp Chat Analysis:Get the Statistics For Your Watsapp Chat](https://github.com/chinmay0703/llm-ai-apps/tree/main/SBERT%20%2B%20LLM-Based%20PDF%20Chat)** –SBERTCrew AI is a multi-agent PDF Q&A system that uses SBERT for intelligent content retrieval and CrewAI for collaborative AI processing. It efficiently extracts, analyzes, and answers questions based on PDF documents with fast and context-aware responses. 🚀📄
+
+
 📢 More AI tools coming soon! 🚀  
